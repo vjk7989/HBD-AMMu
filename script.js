@@ -26,8 +26,8 @@ const background = $.getElementById("background")
 const songs = [
 	{path:"Lost in Your Eyes.wav",musicName:"Lost in Your Eyes",artist:"Krishna Tadepalli",cover:"Designer (3).png"},
 	{path:"Always Here.mp3",musicName:"Always Here",artist:"Vijay Tadepalli",cover:"Designer (4).png"},
-	{path:"By your side.mp3",musicName:"By your side",artist:"VIJAYA KRISHNA TADEPALLI",cover:"Designer (6).png"},
-    {path:"Best Friend's Birthday.mp3",musicName:"HBD-AMMU",artist:"VIKII",cover:"priya.jpg"}
+	{path:"By your side.mp3",musicName:"By your side",artist:"VIJAYA KRISHNA TADEPALLI",cover:"Designer (6).png"}
+    
 ]
 
 let isLoading = false
