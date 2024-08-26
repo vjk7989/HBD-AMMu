@@ -27,8 +27,6 @@ const songs = [
 	{path:"By your side.mp3",musicName:"Spa works",artist:"KRISHNA ",cover:"Designer (6).png"},
 	{path:"Lost in Your Eyes.wav",musicName:"THE Ojazos",artist:"Krishna",cover:"Designer (3).png"},
 	{path:"Always Here.mp3",musicName:"Always Here",artist:"Krishna",cover:"Designer (4).png"}
-	
-    
 ]
 
 let isLoading = false
